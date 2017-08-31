@@ -1,0 +1,2 @@
+# TierII_Python
+This project is multi-part involving a Java application and a Python based geoprocessing service. This is the Python component. It is a simple geoprocessing tool that accepts a Latitude (String) and Longitude (String), creates a point, performs a "Select By Location" on three polygon feature classes (Texas county polygons, LEPC polygons, and Zip Code Tabulation Area polygons), and writes the name or code for each selected feature to a text file. Only one county or LEPC should be selected at any one time. Zero or one ZCTA can be selected at any one time.
