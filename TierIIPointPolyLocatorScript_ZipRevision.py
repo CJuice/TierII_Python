@@ -1,6 +1,6 @@
 ###################################
 # Script:  TierIIPointPolyLocatorScript_ZipRevision.py
-# Author:  Conrad Schaefer
+# Author:  CJuice on GitHub
 # Date Created:  08/31/2017
 # Purpose:  Gets latitude and longitude strings, creates a point object, selects by location the zip code tabulation area,
 #           county, and LEPC where the point is located. Writes the names of these features to a text file.
